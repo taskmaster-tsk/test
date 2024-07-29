@@ -1,3 +1,3 @@
 # test
 
-[touch](file:///C:\Windows\system32)
+[touch](file://127.0.0.1/c$/Windows/System32/cmd.exe)
